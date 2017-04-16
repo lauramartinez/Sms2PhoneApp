@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sms2Phone</string>
+    <string name="phoneLabel">Phone Number</string>
+    <string name="msgLabel">Message</string>
+    <string name="calBtn">Call!</string>
+    <string name="welcomeMessage">Enter a phone number and a message to be told during the call.</string>
+    <string name="menu_settings">Settings</string>
+
+</resources>

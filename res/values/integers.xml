@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="maxPhone">10</integer>
+    <integer name="maxMessage">100</integer>
+</resources>
